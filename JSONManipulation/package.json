@@ -1,0 +1,15 @@
+{
+  "name": "jsonmanipulation",
+  "version": "1.0.0",
+  "description": "testRefactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "This JSON Manipulation"
+  },
+  "keywords": [
+    "JSON",
+    "Manipulation"
+  ],
+  "author": "Muhammad Aji Putra",
+  "license": "MIT"
+}
